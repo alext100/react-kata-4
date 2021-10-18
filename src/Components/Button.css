@@ -1,0 +1,10 @@
+.button {
+    width: 35px;
+    height: 60px;
+    color: royalblue;
+    font-weight: 700;
+}
+.number:active {
+    font-size: 300px;
+    position: absolute;
+}
